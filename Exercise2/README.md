@@ -33,8 +33,7 @@ L’attività mira a consolidare il concetto di **input asincrono** e a far comp
 1. All’avvio, il LED lampeggia con un periodo iniziale di **500 ms**.
 2. Se l’utente preme il tasto `'+'`, il periodo di lampeggio diminuisce (frequenza aumenta).
 3. Se l’utente preme il tasto `'-'`, il periodo di lampeggio aumenta (frequenza diminuisce).
-4. Il valore del periodo è **limitato tra 50 ms e 2000 ms** tramite una funzione `__clamp(...)`.
-5. Il valore aggiornato viene visualizzato sul **monitor seriale**.
+4. Il valore aggiornato viene visualizzato sul **monitor seriale**.
 
 ## 🔧 Istruzioni operative
 
